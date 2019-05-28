@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Glabbr</string>
+    <string name="info">Test By:\nKalpesh A. Talele, Mob: 8600064422\nEmail Id: kalpeshtalele@gmail.com</string>
+    <string name="lets_start">Let\'s Start </string>
+    <string name="message_info">Message Info</string>
+    <string name="clicked_on_user">User %1$s clicked</string>
+    <string name="read_by">Read by</string>
+    <string name="delivered_to">Delivered to</string>
+
+
+    <!-- error message-->
+    <string name="error_message_id_not_found">Message id not found.</string>
+    <string name="error_user_not_found">User not found.</string>
+
+    <!-- messages-->
+    <string name="alert_message_data_received">Data received.</string>
+    <string name="alert_message_status_receive_for_another_message">Data received for another message.</string>
+
+</resources>
